@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: "Bing"
+title: "Bing [Bing Search APIs will be retired on 11th August 2025. New deployments are not supported.]"
 ---
 
 :::warning
